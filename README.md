@@ -5,4 +5,5 @@
 ## How We Did It
 
 ## Created With Help From
-- Joel Connell
+Miriam Silva
+
